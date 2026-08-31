@@ -55,7 +55,9 @@ Snowflake
    ↓
 SQL Analysis & Transformation
 
-📊 Dashboard Features
+---
+
+**## 📊 Dashboard Features **
 1. KWH Analysis
 
 The KWH view analyzes total energy consumption across different dimensions.
