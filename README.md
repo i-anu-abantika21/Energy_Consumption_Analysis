@@ -45,8 +45,6 @@ The dashboard includes separate **KWH and CSU views**, allowing users to switch 
 ---
 
 ## 🔄 Data Analytics Workflow
-
-```text
 Raw Data
    ↓
 AWS
@@ -74,4 +72,6 @@ The interactive Tableau dashboard provides a comprehensive analysis of **energy 
 - **CSU by Area** – Compares CSU between Rural and Urban areas.
 - **CSU by Region** – Analyzes CSU across different regions.
 - **CSU by Energy Source** – Shows the contribution of different energy sources to CSU.
+
+
 
