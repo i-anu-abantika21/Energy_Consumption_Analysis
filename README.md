@@ -45,6 +45,7 @@ The dashboard includes separate **KWH and CSU views**, allowing users to switch 
 ---
 
 ## 🔄 Data Analytics Workflow
+```text
 Raw Data
    ↓
 AWS
@@ -52,6 +53,13 @@ AWS
 Snowflake
    ↓
 SQL Analysis & Transformation
+   ↓
+Tableau
+   ↓
+Interactive Dashboard
+   ↓
+Business Insights
+```
 
 ---
 
