@@ -85,24 +85,24 @@ The interactive Tableau dashboard provides a comprehensive analysis of **energy 
 
 ### ⚡ KWH Analysis
 
-- 🇦🇺 **Australia** has the highest energy consumption at **80,410 KWH**.
-- 🇳🇿 **New Zealand** is the second-highest consumer with **65,414 KWH**.
-- 🇨🇱 **Chile** records the lowest energy consumption at **16,556 KWH**.
-- 🌾 **Rural areas** consume **471,310 KWH**, approximately **5% higher** than Urban areas at **448,818 KWH**.
-- 🌍 **Europe** has the highest regional energy consumption at **163,213 KWH**.
-- 🌏 **Australia region** records the lowest consumption at **145,825 KWH**.
-- 💨 **Wind** is the largest energy source, contributing **214,492 KWH**.
-- 🌋 **Geothermal** has the lowest contribution at **164,182 KWH**.
+- **Australia** has the highest energy consumption at **80,410 KWH**.
+- **New Zealand** is the second-highest consumer with **65,414 KWH**.
+- **Chile** records the lowest energy consumption at **16,556 KWH**.
+- **Rural areas** consume **471,310 KWH**, approximately **5% higher** than Urban areas at **448,818 KWH**.
+- **Europe** has the highest regional energy consumption at **163,213 KWH**.
+- **Australia region** records the lowest consumption at **145,825 KWH**.
+- **Wind** is the largest energy source, contributing **214,492 KWH**.
+- **Geothermal** has the lowest contribution at **164,182 KWH**.
 
 ### 👥 CSU Analysis
 
-- 🇳🇿 **New Zealand** has the highest CSU at **16,862**.
-- 🇳🇬 **Nigeria** records the lowest CSU at **5,043**.
-- 🌾 **Rural areas** have the highest CSU at **102,846**, approximately **7.4% higher** than Urban areas at **95,756**.
-- 🌎 **South America** has the highest regional CSU at **34,692**.
-- 🌎 **North America** records the lowest regional CSU at **30,732**.
-- 💨 **Wind** is the leading energy source with **47,507 CSU**.
-- ☀️ **Solar** follows with **40,681 CSU**.
-- 🌋 **Geothermal** has the lowest contribution at **32,841 CSU**.
+- **New Zealand** has the highest CSU at **16,862**.
+- **Nigeria** records the lowest CSU at **5,043**.
+- **Rural areas** have the highest CSU at **102,846**, approximately **7.4% higher** than Urban areas at **95,756**.
+- **South America** has the highest regional CSU at **34,692**.
+- **North America** records the lowest regional CSU at **30,732**.
+- **Wind** is the leading energy source with **47,507 CSU**.
+- **Solar** follows with **40,681 CSU**.
+- **Geothermal** has the lowest contribution at **32,841 CSU**.
 
 
