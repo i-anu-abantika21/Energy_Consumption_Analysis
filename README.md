@@ -43,3 +43,20 @@ The dashboard includes separate **KWH and CSU views**, allowing users to switch 
 | **Tableau** | Interactive data visualization and dashboard development |
 
 ---
+
+## 🔄 Data Analytics Workflow
+
+```text
+Raw Data
+   ↓
+AWS
+   ↓
+Snowflake
+   ↓
+SQL Analysis & Transformation
+   ↓
+Tableau
+   ↓
+Interactive Dashboard
+   ↓
+Business Insights
