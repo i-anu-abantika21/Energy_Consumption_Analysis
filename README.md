@@ -81,6 +81,8 @@ The interactive Tableau dashboard provides a comprehensive analysis of **energy 
 - **CSU by Region** – Analyzes CSU across different regions.
 - **CSU by Energy Source** – Shows the contribution of different energy sources to CSU.
 
+---
+
 ## 💡 Key Insights
 
 ### ⚡ KWH Analysis
