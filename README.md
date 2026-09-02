@@ -68,14 +68,14 @@ Business Insights
 The interactive Tableau dashboard provides a comprehensive analysis of **energy consumption (KWH)** and **CSU** across countries, areas, regions, and energy sources.
 
 ### 🔹 KWH Analysis
-
+![KWH](assets/energy_consumption_kwh.png)
 - **KWH by Country** – Compares energy consumption across different countries.
 - **KWH by Area** – Compares energy consumption between Rural and Urban areas.
 - **KWH by Region** – Analyzes energy consumption across different regions.
 - **KWH by Energy Source** – Shows the contribution of Wind, Biomass, Geothermal, Hydro, and Solar energy sources.
 
 ### 🔹 CSU Analysis
-
+![CSU](assets/energy_consumption_csu.png)
 - **CSU by Country** – Compares CSU across different countries.
 - **CSU by Area** – Compares CSU between Rural and Urban areas.
 - **CSU by Region** – Analyzes CSU across different regions.
